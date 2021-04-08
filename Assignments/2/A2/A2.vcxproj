@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="A2_VERMA.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="A2_VERMA.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
